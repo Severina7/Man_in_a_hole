@@ -1,4 +1,4 @@
-# Man in a hole project or how to get out of the churn problem
+# The Man in a Hole project or A Way Against Customer Churn Cycle
 
 ## Project objectives
 
